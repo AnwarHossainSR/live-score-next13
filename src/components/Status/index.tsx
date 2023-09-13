@@ -6,7 +6,7 @@ import { useState } from 'react';
 
 import type { matchesType } from '@/types';
 
-import LeagueTable from './LeagueTable';
+import { LeagueTable } from './LeagueTable';
 
 export const Status = ({
   matchesList,
