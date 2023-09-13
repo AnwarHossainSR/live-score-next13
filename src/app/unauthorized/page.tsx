@@ -1,19 +1,8 @@
 'use client';
 
-import { useEffect } from 'react';
-
 import EmptyState from '@/components/EmptyState';
 
-interface UnauthorizeStateProps {
-  error: Error;
-}
-
-const UnauthorizeState: React.FC<UnauthorizeStateProps> = ({ error }) => {
-  useEffect(() => {
-    // eslint-disable-next-line no-console
-    console.error(error);
-  }, [error]);
-
+const UnauthorizeState: React.FC = () => {
   return (
     <EmptyState
       title="Uh No"
