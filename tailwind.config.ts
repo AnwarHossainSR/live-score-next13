@@ -16,17 +16,9 @@ const config: Config = {
         xl: '1536px',
       },
       colors: {
-        brand: {
-          accent: '#5AD769',
-          main: '#324BC3',
-        },
-        text: {
-          primary: '#FFFFFF',
-          secondary: '#0C0F19',
-        },
-        background: {
-          primary: '#0C0F19',
-        },
+        primary: '#222831',
+        secondary: '#393E46',
+        textPrimary: '#D8D9DA',
       },
       fontFamily: {
         sans: ['var(--font-inter)', ...defaultTheme.fontFamily.sans],
