@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: live-score-next-13.vercel.app
+
+# Sitemaps
+Sitemap: live-score-next-13.vercel.app/sitemap.xml

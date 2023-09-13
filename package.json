@@ -18,7 +18,7 @@
     "prettier": "prettier --write .",
     "lint": "yarn eslint && yarn prettier",
     "format": "next lint --fix && prettier '**/*.{json,yaml}' --write --ignore-path .gitignore",
-    "postbuild": "next-sitemap && yarn prisma generate",
+    "postbuild": "next-sitemap",
     "prepare": "husky install"
   },
   "lint-staged": {
@@ -29,6 +29,7 @@
     "axios": "^1.5.0",
     "date-fns": "^2.30.0",
     "next": "13.4.19",
+    "next-sitemap": "^4.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.11.0",
