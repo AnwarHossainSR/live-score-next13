@@ -1,6 +1,0 @@
-{"level":"info","message":"getEnglishLeague","timestamp":"2023-09-13T10:41:26.749Z"}
-{"level":"info","message":"getEnglishLeague","timestamp":"2023-09-13T10:41:26.831Z"}
-{"level":"info","message":"getEnglishLeague","timestamp":"2023-09-13T10:41:26.961Z"}
-{"level":"info","message":{"filters":{"dateFrom":"2023-09-13","dateTo":"2023-09-14","permission":"TIER_ONE"},"matches":[],"resultSet":{"count":0}},"timestamp":"2023-09-13T10:41:35.475Z"}
-{"level":"info","message":{"filters":{"dateFrom":"2023-09-13","dateTo":"2023-09-14","permission":"TIER_ONE"},"matches":[],"resultSet":{"count":0}},"timestamp":"2023-09-13T10:41:46.287Z"}
-{"level":"info","message":{"filters":{"dateFrom":"2023-09-13","dateTo":"2023-09-14","permission":"TIER_ONE"},"matches":[],"resultSet":{"count":0}},"timestamp":"2023-09-13T10:42:02.885Z"}
